@@ -6,3 +6,14 @@
 
 /* Normalize.css */
 @import '../../node_modules/normalize.css/normalize.css';
+
+/* Jay Style */
+
+@import 'jl_general.css';
+@import 'jl_block.css';
+@import 'jl_mediaqueries.css';
+
+/* End Jay Style */
+
+/* Font import */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
